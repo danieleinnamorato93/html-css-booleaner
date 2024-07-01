@@ -1,0 +1,10 @@
+body {
+    margin: 0px;
+}
+
+.container {
+    max-width: 1000px;
+    margin: 50px auto ;
+    background-color: white;
+
+}
