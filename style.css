@@ -57,11 +57,39 @@ body {
     width: 1000px;
     height: 150px; 
     margin-top: 160px; 
+    margin-bottom: 220px;
 }
 
 img {
     width: 470px;
     height: 360px;
+    
 }
+
+.alt { font-size: 15px;
+    margin-top: 5px;
+}
+
+p {
+    font-size: 20px;
+
+}
+.evid {
+    background-color: yellow;
+}
+
+li {
+    font-size: 20px;
+}
+
+thead {
+    width: 1000px;
+    background-color: #7db9f9;
+    color: white;
+}
+.aqua {
+    background-color: aquamarine;
+}
+
 
 
