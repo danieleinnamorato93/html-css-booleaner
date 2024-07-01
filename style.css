@@ -8,10 +8,6 @@ body {
     max-width: 1000px;
     margin: 50px auto ;
     background-color: white;
-    
-   
-    
-    
 }
 
 .head {
@@ -84,15 +80,15 @@ li {
 
 thead {
     width: 1000px;
-    background-color: #7db9f9;
+    background-color: #4c9cf2;
     color: white;
 }
 .aqua {
-    background-color: aquamarine;
+    background-color: #96c9ff;
 }
 
 footer {
-    margin-top: 15px;;
+    margin-top: 15px;
 }
 
 .related-text {
@@ -123,7 +119,7 @@ footer {
 
 .text-foto {
     color:white;
-    font-size: 35px;
+    font-size: 3px;
     margin-bottom: 160px;
     padding: 10px;
 }
