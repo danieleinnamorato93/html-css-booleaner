@@ -91,5 +91,34 @@ thead {
     background-color: aquamarine;
 }
 
+footer {
+    margin-top: 15px;;
+}
+
+.related-text {
+    font-size: 25px;
+    color: gray;
+    font-weight: bold;
+    
+}
+
+.related-1 {
+    width: 30px;
+    height: 30px;
+    padding-bottom: 400px;
+}
+
+.related-2 {
+    width: 30px;
+    height: 30px;
+}
+
+.text-foto {
+    color:blue;
+    font-size: 30px;
+    
+    
+
+}
 
 
