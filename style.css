@@ -1,10 +1,50 @@
 body {
-    margin: 0px;
+    margin: 0;
+    background-color: white;
+    
 }
 
 .container {
     max-width: 1000px;
-    margin: 50px auto ;
+    margin: 0 auto ;
     background-color: white;
-
+    
+   
+    
+    
 }
+.head {
+    width: 1000px;
+    height: 150px;
+    background-image: url('img/pattern.png');
+    background-size: contain;
+    margin: 0 auto ;
+    background-color:  #7db9f9;
+}
+
+#intro-font-1 {
+    font-size: 30px;
+    color: white;
+    text-shadow: 1px 1px 0 #000;
+    padding-top: 30px;
+    
+    
+}
+
+#intro-font-2 {
+    font-size: 60px;
+    color: white;
+    text-shadow: 1px 1px 0 #000;
+    
+}
+
+.address {
+    font-size: 20px;
+    color:grey;
+}
+
+.address.special {
+    color: #7db9f9;
+}
+
+
