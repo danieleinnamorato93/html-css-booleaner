@@ -39,12 +39,16 @@ body {
 }
 
 .address {
-    font-size: 20px;
+    font-size: 25px;
     color:grey;
 }
 
 .address.special {
     color: #7db9f9;
+}
+.date {
+    font-size: 15px;
+    color:grey;
 }
 
 
