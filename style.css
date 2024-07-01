@@ -6,13 +6,14 @@ body {
 
 .container {
     max-width: 1000px;
-    margin: 0 auto ;
+    margin: 50px auto ;
     background-color: white;
     
    
     
     
 }
+
 .head {
     width: 1000px;
     height: 150px;
@@ -49,6 +50,18 @@ body {
 .date {
     font-size: 15px;
     color:grey;
+}
+.foto {
+    
+    margin: 0 auto;
+    width: 1000px;
+    height: 150px; 
+    margin-top: 160px; 
+}
+
+img {
+    width: 470px;
+    height: 360px;
 }
 
 
